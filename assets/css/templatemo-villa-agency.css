@@ -1206,7 +1206,7 @@ Properties Style
   color: #f35525;
   margin-top: 6px;
   display: inline-block;
-  float: right;
+  float: auto;
   margin-top: 30px;
 }
 
