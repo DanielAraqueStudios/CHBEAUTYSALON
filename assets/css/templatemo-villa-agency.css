@@ -1826,3 +1826,20 @@ body {
     margin-right: 100px;
   }
 }
+
+
+/* footer image resize  */
+
+.footerimg{
+  width: 25%;
+  height: auto;
+}
+
+
+.centetext{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
